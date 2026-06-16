@@ -46,8 +46,8 @@
 
 ## 🚀 Currently Focus
 
-• Building a Resume Builder & Cover Letter Editor inspired by platforms like NovoResume
-• Developing document editing, template customization, PDF export, and reusable resume sections
-• Planning AI-assisted features to help users improve resume bullet points and generate tailored cover letters
-• Learning NestJS through Angular + NestJS full-stack practice projects
+• Building a Resume Builder & Cover Letter Editor inspired by platforms like NovoResume.<br/>
+• Developing document editing, template customization, PDF export, and reusable resume sections.<br/>
+• Planning AI-assisted features to help users improve resume bullet points and generate tailored cover letters.<br/>
+• Learning NestJS through Angular + NestJS full-stack practice projects.
 
