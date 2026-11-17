@@ -1,6 +1,6 @@
 ## Hi, I'm Vinay 👋
 
-💻 Frontend / Full Stack Developer with 5 years of experience building web applications using Angular, React, TypeScript and Node.js.<br/>
+💻 Frontend / Full Stack Developer with 6 years of experience building web applications using Angular, React, TypeScript and Node.js.<br/>
 🌱 Experienced in Angular, React, TypeScript, Node.js, REST APIs, PostgreSQL and modern frontend architecture.<br/>
 ⚒️ Building user-friendly web applications<br/>
 🔍 Currently seeking Frontend Developer and Full Stack Developer opportunities in Germany.<br/>
